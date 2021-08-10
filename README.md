@@ -36,3 +36,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Some categories (i.e. Tights, Stockings, etc) have hover effects.
 ![](sheertex_hover.jpg)
+
+### Duration
+
+Time Spend: ~ 10 hours (3 hours to learn tailwind, 7 hours on formatting and setting up website in next.js)
