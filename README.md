@@ -39,4 +39,4 @@ Some categories (i.e. Tights, Stockings, etc) have hover effects.
 
 ### Duration
 
-Time Spend: ~ 10 hours (3 hours to learn tailwind, 7 hours on formatting and setting up website in next.js)
+Time Spent: Approx. 10 hours (3 hours to learn tailwind, 7 hours on formatting and setting up website in next.js)
