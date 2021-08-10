@@ -24,9 +24,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Mobile View
 
-![](sheertex_mobile1.jpg)
-![](sheertex_mobile2.jpg)
-![](sheertex_mobile3.jpg)
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: flex-start;">
+    <img align="top" src="sheertex_mobile1.jpg"/>
+    <img align="top" src="sheertex_mobile2.jpg"/>
+    <img align="top" src="sheertex_mobile3.jpg"/>
+  </div>
+</div>
 
 ## Hover Effect
 
